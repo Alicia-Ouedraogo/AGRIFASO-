@@ -1,0 +1,5 @@
+{
+  "name": "AgriFaso Analytics",
+  "description": "An intelligent dashboard for analyzing the impact of climate conditions on agricultural yields in Burkina Faso using Gemini AI.",
+  "requestFramePermissions": []
+}
